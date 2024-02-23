@@ -51,5 +51,6 @@ switch (words) {
     break;
 
   default:
+    document.write("nvalid");
     break;
 }
